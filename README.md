@@ -6,7 +6,7 @@
   - [ ] A4
 - [ ] B
   - [x] B1
-  - [ ] B2
+  - [x] B2
   - [ ] B3
   - [ ] B4
   - [ ] B5
@@ -47,6 +47,8 @@ _B1. Apply preprocessing techniques (e.g., converting categorical variables, dat
 B1. The following preprocessing techniques have been applied:
 - converting categorical variables to integer notation
 - cleaning data
+- improving integer encoding
+- changing boolean variables to appropriate boolean notation
 - checking for invalid data
 
 The preprocessed data is available in the 'mushrooms.csv' file, and the preprocessing code is available in the 'preprocessing.py' file. Both files are available in the data folder.
@@ -56,7 +58,7 @@ _Note: Remember to commit with a message and push your work to GitLab._
 ### Model Training
 
 _B2. Build the AI/ML algorithm._  
-B2. The AI/ML algorithm has been built in the '' file.
+B2. The AI/ML algorithm has been built in the 'model.py' file.
 
 _B3. Train the model using the AI/ML algorithm._  
 B3. The above model has been trained.
