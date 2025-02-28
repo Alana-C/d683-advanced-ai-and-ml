@@ -1,7 +1,6 @@
 # PREPROCESSING DATA
 import pandas as pd
-import numpy as np
-from user_interface import *
+from misc.user_interface import *
 
 # B1. The following preprocessing techniques have been applied:
 # - converting categorical variables into intervals

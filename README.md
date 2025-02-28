@@ -10,7 +10,7 @@
   - [x] B3
   - [x] B4
   - [x] B5
-  - [ ] B6
+  - [x] B6
 - [ ] C
   - [ ] C1
   - [ ] C2
@@ -78,7 +78,10 @@ _B5. Apply cross-validation techniques._
 B5. Cross-validation techniques (repeated stratified k-fold cross validation and hold validation) have been used to verify that accuracy, precision, recall, and f1 scores remain constant for all folds.
 
 _B6. Use hyperparameter tuning to optimize the model._  
-B6. Hyperparameter tuning has been applied by ___
+B6. Hyperparameter tuning has been applied by finding the minimum value for hyperparameters "n_estimators" and "max-depth" that matches the evaluation scores in B4. This will make model generation, fitting, and prediction quicker without hurting performance.  
+- Optimized n_estimators: 3
+- Optimized max_depth: 10
+
 
 _Note: Remember to commit with a message and push your work to GitLab._
 
