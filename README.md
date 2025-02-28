@@ -4,7 +4,7 @@
   - [ ] A2
   - [x] A3
   - [ ] A4
-- [ ] B
+- [x] B
   - [x] B1
   - [x] B2
   - [x] B3
@@ -91,6 +91,18 @@ _C.  Complete the README file provided in GitLab to include the following:_
 
 _C1. requirements (software, hardware, etc.)_  
 C1. Requirements to run this AI/ML program are as follows:
+- The complete code of this program, including:
+  - 'data' folder and contents
+  - 'misc' folder and contents
+  - model.py
+  - README.md
+- Python 3.13 or newer
+- A python environment including the following packages:
+  - NumPy
+  - Pandas
+  - Sklearn
+  - MatPlotLib
+- A computer capable of running python 3.13 OR a web-based interface for running python projects
 
 _C2. instructions to run the AI/ML application_  
 C2. To run this program, 
