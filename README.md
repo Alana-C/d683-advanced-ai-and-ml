@@ -8,7 +8,7 @@
   - [x] B1
   - [x] B2
   - [x] B3
-  - [ ] B4
+  - [x] B4
   - [ ] B5
   - [ ] B6
 - [ ] C
@@ -64,17 +64,18 @@ _B3. Train the model using the AI/ML algorithm._
 B3. The above model has been trained.
 
 _B4. Evaluate model accuracy using metrics like accuracy, precision, recall, and F1 score._  
-B4. Model Accuracy Has Been Evaluated
-- Accuracy Percentage: 
-- metric
-- metric
+B4. Model Has Been Evaluated:
+- Accuracy Percentage (number correct / number tested): 100% 
+- Precision (number true positive / number true positive + number false positive): 100%
+- Recall (number total positive / number total positive + number false negative): 100%
+- F1 Score (harmonic mean of precision and recall): 100%
 
 _Note: Remember to commit with a message and push your work to GitLab._
 
 ### Model Optimization
 
 _B5. Apply cross-validation techniques._  
-B5. Cross-validation has been used to ___
+B5. Cross-validation techniques (repeated stratified k-fold cross validation and hold validation) have been used to verify that accuracy, precision, recall, and f1 scores remain constant for all folds.
 
 _B6. Use hyperparameter tuning to optimize the model._  
 B6. Hyperparameter tuning has been applied by ___
@@ -86,7 +87,7 @@ _Note: Remember to commit with a message and push your work to GitLab._
 _C.  Complete the README file provided in GitLab to include the following:_
 
 _C1. requirements (software, hardware, etc.)_  
-C1. Requirements to run this AI/ML program are as follows: 
+C1. Requirements to run this AI/ML program are as follows:
 
 _C2. instructions to run the AI/ML application_  
 C2. To run this program, 

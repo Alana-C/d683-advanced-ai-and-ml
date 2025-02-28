@@ -23,4 +23,4 @@ for column in df.columns:
 df['class'].astype('boolean')
 df['bruises'].astype('boolean')
 
-df.to_csv('mushrooms.csv')
+df.to_csv('mushrooms.csv', index=False)
