@@ -5,7 +5,7 @@
   - [x] A3
   - [ ] A4
 - [ ] B
-  - [ ] B1
+  - [x] B1
   - [ ] B2
   - [ ] B3
   - [ ] B4
@@ -45,12 +45,11 @@ _B. Develop your fully functional AI/ML product that addresses your identified b
 
 _B1. Apply preprocessing techniques (e.g., converting categorical variables, data cleaning, handling missing data, and scaling features). When you are done, upload the preprocessed dataset to the GitLab repository._  
 B1. The following preprocessing techniques have been applied:
-- converting categorical variables 
-- cleaning data, 
-- filling missing/unknown data
-- idk add others  
+- converting categorical variables to integer notation
+- cleaning data
+- checking for invalid data
 
-The preprocessed data is available in the 'mushrooms.csv' file
+The preprocessed data is available in the 'mushrooms.csv' file, and the preprocessing code is available in the 'preprocessing.py' file. Both files are available in the data folder.
 
 _Note: Remember to commit with a message and push your work to GitLab._
 
