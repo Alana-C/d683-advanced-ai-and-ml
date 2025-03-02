@@ -16,6 +16,7 @@ def get_translations(file_name):
                     meaning, code = word.strip().split("=")
                     subdictionary[code] = i
                     subdictionary[i] = meaning
+                    subdictionary[meaning] = code
                     i += 1
                 translations[column] = subdictionary
     return translations
