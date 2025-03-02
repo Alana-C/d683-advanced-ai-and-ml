@@ -3,7 +3,7 @@
   - [x] A1
   - [x] A2
   - [x] A3
-  - [ ] A4
+  - [x] A4
 - [x] B
   - [x] B1
   - [x] B2
@@ -24,8 +24,7 @@ A2. Commits are provided for each requirement in Section B.
 A3. GitLab Repository URL: https://gitlab.com/wgu-gitlab-environment/student-repos/achr641/d683-advanced-ai-and-ml/-/tree/working
 
 A4. Branch History:  
-/img  
-/img
+Branch History Screenshots are Available in Misc/Repository_History
 
 ## B: Development of AI/ML Product
 ### B1: Data Preprocessing
